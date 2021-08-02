@@ -17,9 +17,6 @@ function setClock(){
 hour.innerHTML = currDate.getHours();
 min.innerHTML = currDate.getMinutes();
 sec.innerHTML = currDate.getSeconds();
-
-
-
 }
 
 function rotationRatio(element,rotationRatio){
